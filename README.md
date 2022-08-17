@@ -16,3 +16,4 @@ This is a basic C calculator. It runs good unless you try to break.
 
 ## Licence
 Because I sold my soul to GNU, here is the general public license
+[The GNU General Public License](./LICENSE)
